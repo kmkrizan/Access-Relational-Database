@@ -1,1 +1,3 @@
 # Access-Relational-Database
+
+This project was based off the dance studio I attend. They currently only have one location, but the database was designed for future expansion. Although they have been in business for over 30 years, I only created one year of sample data where I used Excel spreadsheets to refresh the data through import. Studio 1 and Session 2 were frequently used as default values and criteria to represent the current studio and session. The primary functions created in this database create sessions, assign teachers, and register students for classes in the current session. It also sets up the revue that happens at the end of each session, which consists of lining up performances, assigning songs, costumes, hair, shoes, and tights for each class. 
