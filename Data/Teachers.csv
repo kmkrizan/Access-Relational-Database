@@ -1,0 +1,12 @@
+TeacherID,Position,Last,First,Middle,Street,City,State,Zip,Country,Cellphone,Email,StudioID,CurrentWage
+1,Master,Bullter,Jane,E,6649 N Blue Gum St,River Ridge,LA,70123,USA,(504) 621-8927,jbullter@gmail.com,1,20
+2,Assisstant,Darakjy,Josephine,I,4 B Blue Ridge Blvd,Harahan,LA,70123,USA,(504) 292-9388,josephine_darakjy@darakjy.org,1,15
+3,Demonstrator,Venere,Jennifer,E,8 W Cerritos Ave #54,River Ridge,LA,70123,USA,(504) 636-8749,art@venere.org,1,10
+4,Assisstant,Paprocki,Kristen,U,639 Main St,Harahan,LA,70123,USA,(504) 385-4412,lpaprocki@hotmail.com,1,16
+5,Master,Foller,Ashley,A,34 Center St,Harahan,LA,70123,USA,(504) 570-1893,donette.foller@cox.net,1,25
+6,Demonstrator,Morasca,Emily,J,3 Mcauley Dr,Harahan,LA,70123,USA,(504) 503-2484,simona@morasca.com,1,15
+7,Demonstrator,Tollner,Katie,K,7 Eads St,River Ridge,LA,70123,USA,(504) 573-6914,mitsue_tollner@yahoo.com,1,15
+8,Master,Dilliard,Cindy,S,7 W Jackson Blvd,River Ridge,LA,70123,USA,(504) 752-3500,leota@hotmail.com,1,20
+9,Demonstrator,Wieser,Rachel,E,5 Boston Ave #88,Kenner,LA,70065,USA,(504) 414-2147,sage_wieser@cox.net,1,10
+10,Assisstant,Marrier,Sara,Y,228 Runamuck Pl #2808,Kenner,LA,70065,USA,(504) 655-8723,kris@gmail.com,1,18
+11,Assisstant,Smith,Stacy,P,425 Sophia,River Ridge,LA,70123,USA,(504) 655-8723,stacysmith343@gmail.com,2,18
